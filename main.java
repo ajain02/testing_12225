@@ -3,7 +3,7 @@ public class main {
         int x = 1;
         System.out.println(x);
         //
-        System.out.println("Iti was here");
+        System.out.println("Iti was here.");
         //
     }
 }
